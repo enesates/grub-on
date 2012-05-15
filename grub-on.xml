@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article [
+
+]>
+
+<article id="index" lang="tr">
+  <articleinfo>   	
+    <title>Grub-on İçindekiler</title>	
+    <copyright> 
+      <year>2011</year> 
+      <holder>Ubuntu Türkiye - Uygulama Geliştirme Tayfası</holder> 
+    </copyright><copyright><year>2011</year><holder>http://www.ubuntu-tr.net/</holder></copyright> 
+
+  </articleinfo> 
+   	<section id="yardim" status="preview">
+	    	<title>Grub-on Hakkında </title>
+	 	      
+		      <para>Grub-on özgür bir yazılımdır, onu Özgür Yazılım Vakfı'nın yayınladığı GNU Genel Kamu Lisansı'nın 2.  sürümü veya (tercihinize bağlı) daha sonraki sürümleri  altında dağıtabilir ve/veya değiştirebilirsiniz. 
+Grub-on  faydalı olacağı umut edilerek dağıtılmaktadır, fakat HİÇBİR GARANTİSİ YOKTUR; hatta ÜRÜN DEĞERİ ya da BİR AMACA UYGUNLUK gibi garantiler de vermez. Lütfen GNU Genel Kamu Lisansı'nı daha fazla  ayrıntı için inceleyin.</para>
+
+
+
+			<para>Lütfen hataları bildirin.. </para>
+			<para>https://bugs.launchpad.net/grub-on 	 </para>   
+    	</section>
+
+	<section id="ugt" status="preview">
+	    	<title>Uygulama Geliştirme Tayfası Hakkında </title>
+	 	      
+		      <para>Uygulama Geliştirme Tayfası, Ubuntu Türkiye Topluluğu'nun tayfalarındandır. Gelen istekler, ortaya atılan fikirler doğrultusunda özgür yazılımlar üretir.</para>
+			<para>Tayfaya katılım için </para>
+			<para>http://forum.ubuntu-tr.net/index.php?topic=24091.0 </para>
+
+  
+    </section>
+  	<section id="zaman" status="preview">
+	<title>Zaman Aşımı Ayarlaması</title> 
+	      <para>Grub menüsünün ne kadar süre gözükeceğini ayarlayabilirsiniz.</para>
+	</section>
+  	<section id="gerial" status="review">
+		<title>Geri Al</title>
+    	
+		<para>Uygulamayı açtıktan sonra yaptığınız tüm değişiklikleri geri almanızı sağlar. Eğer değişiklikleri herhangi bir anda kaydettiyseniz, uygulamayı en son kaydedilen duruma getirir.</para>
+
+	</section>
+  	<section id="yukasa" status="preview">
+		<title>Yukarı-Aşağı</title>
+		 
+		<para> Menüde gözüken sistemlerin sırasını değiştirmek için okları kullanabilirsiniz. </para>
+		
+	</section>	
+  	<section id="varsayilan" status="preview">
+ 	   <title>İşletim Sistemini Varsayılan Olarak Ayarlama</title>
+	      
+		<para>Ev (home) simgesi ile varsayılan olarak başlayan işletim sistemini ayarlayabilirsiniz.</para>
+	</section>	
+  	<section id="eklesil" status="preview">
+ 	   <title>Ekle-Sil</title>
+	      
+		<para>Listeye yeni bir işletim sistemi eklemek, ya da varolan işletim sistemini listeden silmek için bu düğmeleri kullanabilirsiniz.</para>
+	</section>
+  	<section id="duzenleme" status="preview">
+ 	   <title>İşletim Sistemi Bilgilerini Düzenleme </title>
+	      
+		<para> Listeden seçilen işletim sisteminin bilgilerini, açılış parametrelerinin vs. düzenlenebileceği alan.</para>
+	</section>	
+  	<section id="ayrintilar" status="preview">
+		<title>Ayrıntılar</title>
+		      
+		<para>Yapılan işlemlerin uçbirim (terminal) çıktılarını görebileceğiniz ekran.</para>
+	</section>		
+  	<section id="yedekle" status="preview">
+		<title>Yedekle </title>
+		      
+		<para>Grub dosyalarının, en son kaydedilmiş halinin yedeğini almanızı sağlar. </para>
+		
+	</section>	
+	<section id="yedegiyukle" status="preview">
+		<title>Yedeği Yükle </title>
+		      
+		<para>Grub dosyalarının, alınmış yedeklerinin geri yüklenmesini sağlar. </para>
+		
+	</section>
+	<section id="sifirla" status="preview">
+		<title>Sıfırla </title>
+		      
+		<para>"Grub Update" komutunun çalışmasını sağlayarak, sistemin Grub'u sıfırlamasını sağlar. </para>
+		
+	</section>
+	<section id="kaydet" status="preview">
+		<title>Kaydet </title>
+		      
+		<para>Uygulama açıldıktan sonra yapılan değişikliklerin, grub ile ilgili dosyalara kaydedilmesini sağlar. </para>
+		
+	</section>	
+</article>
